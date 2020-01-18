@@ -1,0 +1,16 @@
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\bin\Debug\Electoric Voting System.exe.config
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\bin\Debug\Electoric Voting System.exe
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\bin\Debug\Electoric Voting System.pdb
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric Voting System.csprojAssemblyReference.cache
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.Properties.Resources.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric Voting System.csproj.GenerateResource.cache
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric Voting System.exe
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric Voting System.pdb
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmAspirantRecord.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.frmAspirantReg.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmPostMenu.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmLoginRecord.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmLogin.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmVoterReg.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmAccreditation.resources
+C:\Users\IBRAHEEM O\Desktop\Electoric Voting System\obj\Debug\Electoric_Voting_System.UI.frmUser.resources
